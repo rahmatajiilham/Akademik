@@ -9,4 +9,4 @@ Level Admin =  username : nuris123, password : 123
 <br>
 Level Guru  = username : udin123, password : udin123
 <br>
-https://belajarphp.net/product/sistem-informasi-sekolah/
+
